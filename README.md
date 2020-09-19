@@ -6,3 +6,4 @@ This is the project for task-1.
 The calculator will build on the principles of logic to solve problems in mathematics and arithmetics mainly issues like limits, differentiation, integration.
 
 ![cppcheck-action](https://github.com/99002583/CI_Project/workflows/cppcheck-action/badge.svg)
+![CI](https://github.com/99002583/CI_Project/workflows/CI/badge.svg)
